@@ -13,3 +13,21 @@ and the final G will take you the last line in the file.)
 
 
 *****************************************************
+How to search for an exampleString?
+/exampleString  
+*****************************************************
+How to search BACKWARDS for an exampleString?
+?exampleString
+*****************************************************
+How to get to the next search result?
+n
+*****************************************************
+How to get to the previous search result?
+N
+*****************************************************
+How to undo a change?
+u
+*****************************************************
+How to save and quit the file?
+:wq
+*****************************************************
