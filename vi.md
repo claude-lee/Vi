@@ -56,6 +56,8 @@ ma
 *****************************************************
 How to replace a string?
 :s/string/replaceString/
+or 
+:%s/string/replaceString/
 *****************************************************
 How to jump to mark a?
 'a
