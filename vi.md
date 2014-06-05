@@ -79,13 +79,17 @@ How to comment out all lines betwen mark a and current line? (with //)
 :'a,. s/^/\/\/
 -> you have to escape slash with backslash
 *****************************************************
-
+How do I jump to the end of a file?
+G
 *****************************************************
-
+How do I jump to the beginning of a file?
+1G
 *****************************************************
-
+How do I remove leading white space?
+:'a,. s/^\s\+
 *****************************************************
-
+How to increase the inner block indent?
+>i{
 *****************************************************
 
 *****************************************************
